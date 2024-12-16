@@ -9,6 +9,14 @@
                     "modrinth": "https://modrinth.com/",
                     "curseforge": "https://curseforge.com/"
                 }
+                        {
+            "id": "2.1.0",
+            "releasedAt": 1734328021,
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/",
+                    "curseforge": "https://curseforge.com/"
+                }
             }
         }
     ]
